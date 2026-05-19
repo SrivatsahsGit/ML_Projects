@@ -41,8 +41,14 @@ Based on our initial data exploration and missing value analysis:
 
 To visualize the data and our findings, the following charts were generated:
 -   **Distribution of Passenger Ages (Histogram)**: Shows the frequency of passengers across different age groups.
+-   <img width="841" height="547" alt="image" src="https://github.com/user-attachments/assets/62832107-6deb-4f69-b519-e5a3bb74a216" />
+
 -   **Distribution of Passenger Classes (Bar Chart)**: Illustrates the count of passengers in 1st, 2nd, and 3rd classes.
+-   <img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/448ec162-b321-4b24-8f09-24530db5df1a" />
+
 -   **Survival Count (Bar Chart)**: Compares the number of passengers who survived versus those who did not.
+-   <img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/7be4571d-cdc5-4cd5-a2dd-f31dd9d6c316" />
+
 
 ## 5. Conclusions
 
